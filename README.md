@@ -18,7 +18,7 @@ I'm **Nirjhor** - *aka* [**SiliconJelly**](https://nirjhor.uwu.ai). A part-time 
 
 ---
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Been breathing technology, and sneezing viable ideas for a long while <img align="right" src="https://img.shields.io/github/followers/SiliconJelly.svg?style=social&label=Follow&maxAge=2592000">
+### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Been breathing technology, and sneezing viable ideas for a long while <img align="right" src="https://img.shields.io/github/followers/SiliconJelly.svg?style=social&label=Follow">
 
 <div align="center">
 
@@ -39,11 +39,13 @@ I'm **Nirjhor** - *aka* [**SiliconJelly**](https://nirjhor.uwu.ai). A part-time 
 [![OpenSea](https://img.shields.io/badge/OpeanSea-2081E2?style=for-the-badge&logo=OpenSea&logoColor=white)](https://opensea.io/NJR4beatZ?tab=created)
 [![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://www.androidauthority.com/brave-browser-review-1110069/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.pcmag.com/reviews/microsoft-windows-10)
+
 [![Discord](https://discord.c99.nl/widget/theme-3/707531138473656403.png)](https://discordapp.com/users/707531138473656403)
- 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://siliconjelly-blog.notion.site)
+
+[![Watch List](https://img.shields.io/badge/Watching-A81D33?style=for-the-badge&logo=myanimelist&logoColor=white)](https://siliconjelly.notion.site/Watch-List-5535071e16074f319adf9d24afb83bde)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aw96DF4Z9m)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://siliconjelly.notion.site/Reading-List-fc10cf0987614bb58a7b06d1f5d5c1d7)
+[![Reading List](https://img.shields.io/badge/Reading-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://siliconjelly.notion.site/Reading-List-fc10cf0987614bb58a7b06d1f5d5c1d7)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://siliconjelly-blog.notion.site)
 
 </div>
 
@@ -90,7 +92,7 @@ I'm **Nirjhor** - *aka* [**SiliconJelly**](https://nirjhor.uwu.ai). A part-time 
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nirjhor7&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=b16c4e&bar_color_cover=true)](https://open.spotify.com/user/nirjhor7)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nirjhor7&cover_image=true&theme=novatorem&background_color=000000&bar_color=b16c4e&bar_color_cover=true)](https://open.spotify.com/user/nirjhor7)
 
 ---
 
@@ -126,8 +128,7 @@ I'm **Nirjhor** - *aka* [**SiliconJelly**](https://nirjhor.uwu.ai). A part-time 
 <img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 </br>
-<img align="center" alt="Red Arrow" width="175px" src="https://user-images.githubusercontent.com/65353587/203214670-5d2a3c35-a265-4079-b4d0-eca5d738080c.png" />
-
+<!-- <img align="center" alt="Red Arrow" width="175px" src="https://user-images.githubusercontent.com/65353587/203214670-5d2a3c35-a265-4079-b4d0-eca5d738080c.png" />
 
 
 <div align="center">
@@ -135,7 +136,8 @@ I'm **Nirjhor** - *aka* [**SiliconJelly**](https://nirjhor.uwu.ai). A part-time 
 ### 🤷‍♂️ You Laugh, You Lose 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
   
-</div>
+</div> -->
+
 
 ---
 
