@@ -10,11 +10,11 @@ I'm **Nirjhor** - *aka* [**SiliconJelly**](https://nirjhor.uwu.ai). A part-time 
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> A perpetual learner from Dhaka, Bangladesh — wanting to make an impact
 
-- 🔭 Working at [ROBU](https://bracurobu.org/), leading the Research and Project Management team there. Also a part of [Mongol-Tori](http://www.bracu-mongoltori.com) ..
-- 🌱 Currently learning everything; yes sir! From Machine Learning to Competitive Programming, and whatnot ..
-- 💼 As of now, I'm in my freshman year; and am open to any collaborative opportunities. **So, hit me up any time** !!
-- 🤟🏻 WEB3.0 geek, amatuer beatboxer, an aesthete and fun person to be with — who also happens to love writing alot.
-- 😝 Here is my [personality profile](https://www.16personalities.com/profiles/74eba58a295bf). Although I suffer from [Ailurophilia](https://www.fairmontvet.com/ailurophilia-is-the-love-of-cats-are-you-an-ailurophile), hope we'll get along. Here's your **saffron tea** ☕
+- 🔭 Worked at [ROBU](https://bracurobu.org/), and [Mongol-Tori](http://www.bracu-mongoltori.com) doing OpenCV for our Mars Rovers.
+- 🌱 Currently learning GPU programming, low-level stuff with security pov, and some AI extravaganza as a side hustle.
+- 💼 As of now, I'm in my second year of uni in Japan; and I am open to any collaborative opportunities. **So, hit me up any time** !!
+- 🤟🏻 Japanese geek, amateur beatboxer, an aesthete, and fun person to be with — who also happens to love writing a lot.
+- 😝 Here is my [personality profile](https://www.16personalities.com/profiles/74eba58a295bf). Although I suffer from [Ailurophilia](https://www.fairmontvet.com/ailurophilia-is-the-love-of-cats-are-you-an-ailurophile), hope we'll get along. Here's your **saffron tea** I made for you ☕.
 
 ---
 
@@ -37,8 +37,7 @@ I'm **Nirjhor** - *aka* [**SiliconJelly**](https://nirjhor.uwu.ai). A part-time 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/SiliconJelly)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/SiliconJelly)
 [![OpenSea](https://img.shields.io/badge/OpeanSea-2081E2?style=for-the-badge&logo=OpenSea&logoColor=white)](https://opensea.io/NJR4beatZ?tab=created)
-[![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://www.androidauthority.com/brave-browser-review-1110069/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.pcmag.com/reviews/microsoft-windows-10)
+
 
 [![Discord](https://discord.c99.nl/widget/theme-3/707531138473656403.png)](https://discordapp.com/users/707531138473656403)
 
