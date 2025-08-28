@@ -70,7 +70,7 @@ As an average Bangladeshi kid, I spent twenty years in our least developed econo
 
   <summary> 👾 Recent Activity </summary>
 
-  <img align="left" alt="SiliconJelly's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SiliconJelly&theme=radical&hide_border=false" />
+  <img align="right" alt="SiliconJelly's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=SiliconJelly&theme=radical&hide_border=true" />
 
 
 </div>
@@ -107,7 +107,7 @@ END_SECTION:activity-->
 
   <br>
   
-  ### 🎧 Without music it does get boring sometimes:
+  ### 🎧 Without music (sh)it does get boring sometimes:
 
   <div align="center">
 
