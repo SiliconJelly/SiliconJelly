@@ -19,10 +19,10 @@ As an average Bangladeshi kid, I spent twenty years in our least developed econo
 ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> A perpetual learner from Dhaka, Bangladesh — wanting to make an impact
 
 - 🔭 Worked at [ROBU](https://bracurobu.org/), and [Mongol-Tori](http://www.bracu-mongoltori.com) doing OpenCV for our Mars Rovers. Coding their eyes [like this](https://youtu.be/zQWY-V_I3Eo).
-- 🙇 Learning GPU Computing (GPGPU), low-level stuff with security pov, and releasing some AI wrapper businesses here and there.
-- 💼 Actively seeking investments in Japan and Bangladesh. **So, if you are an investor, I have cap tables and term sheets to share** !!
-- 🤟🏻 A geek about Japanese economy and culture, amateur beatboxer, an aesthete, liberal and fun person to be with — who also happens to love reading non-fiction, and listening to others' stories. Here is my [personality profile](https://www.16personalities.com/profiles/74eba58a295bf). Now you know why am I so mysterious !
-- 😝 Although I suffer from [Ailurophilia](https://www.fairmontvet.com/ailurophilia-is-the-love-of-cats-are-you-an-ailurophile), I am trying to get along with as many hooman as possible. Here's some **saffron tea** for you ☕ ...
+- 🙇 Learning GPU Computing (GPGPU), low-level stuff, and releasing some AI wrapper businesses here and there.
+- 💼 Actively seeking investments in Japan and Bangladesh. **So, if you're an investor, got ideas & cap tables to share** !!
+- 🤟🏻 Geek about Japanese economy and culture, amateur beatboxer, an aesthete, liberal and fun person to be with — who also happens to love reading non-fiction, and listening to others' stories. Here is my [personality profile](https://www.16personalities.com/profiles/74eba58a295bf) for you to stalk.
+- 😝 Despite suffering from [Ailurophilia](https://www.fairmontvet.com/ailurophilia-is-the-love-of-cats-are-you-an-ailurophile), I try my best to get along with as many hooman possible. Here's some **saffron tea** for you ☕ ... Take a sip.
 
 #
 
