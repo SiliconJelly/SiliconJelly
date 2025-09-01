@@ -21,7 +21,7 @@ As an average Bangladeshi kid, I spent twenty years in our least developed econo
 - 🔭 Worked at [ROBU](https://bracurobu.org/), and [Mongol-Tori](http://www.bracu-mongoltori.com) doing OpenCV for our Mars Rovers. Coding their eyes [like this](https://youtu.be/zQWY-V_I3Eo).
 - 🙇 Learning GPU Computing (GPGPU), low-level stuff, and releasing some AI wrapper businesses here and there.
 - 💼 Actively seeking investments in Japan and Bangladesh. **So, if you're an investor, got ideas & cap tables to share** !!
-- 🤟🏻 Geek about Japanese economy and culture, amateur beatboxer, an aesthete, liberal and fun person to be with — who also happens to love reading non-fiction, and listening to others' stories. Here is my [personality profile](https://www.16personalities.com/profiles/74eba58a295bf) for you to stalk.
+- 🤟🏻 Geek about Japanese economy and culture, amateur beatboxer, an aesthete, liberal and fun person to be with — who also happens to love reading non-fiction, and listening to others' stories. Here is my [personality profile](https://www.16personalities.com/profiles/74eba58a295bf) for you to stalk and sketch a very tamed philosophical monstrosity.
 - 😝 Despite suffering from [Ailurophilia](https://www.fairmontvet.com/ailurophilia-is-the-love-of-cats-are-you-an-ailurophile), I try my best to get along with as many hooman possible. Here's some **saffron tea** for you ☕ ... Take a sip.
 
 #
